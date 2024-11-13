@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Download Manager for Personal Cloud Releases   '  
+
+[module]
+  [[module.imports]]
+    disable = false
+    ignoreConfig = false
+    ignoreImports = true
+    path = "github.com/brianreumere/plague"  # Theme
+
+
+  [params.hcard]
+    fullName = "DoShare Pvt. Ltd"
+
+[params]
+  siteHeaderText = "DoShare DownMan"
+  colors = "default-dark"
+  siteFooterText = "Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianreumere/plague) theme."

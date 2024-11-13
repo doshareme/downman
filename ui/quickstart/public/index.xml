@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Download Manager for Personal Cloud Releases   </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Introduction on Download Manager for Personal Cloud Releases   </description>
+    <generator>Hugo 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 03:14:42 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/_index2/</link>
+      <pubDate>Tue, 12 Nov 2024 03:14:42 +0530</pubDate>
+      <guid>http://localhost:1313/_index2/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/2.8/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2.8/</guid>
+      <description>&lt;h1 id=&#34;v28-v28-stablehttpsgithubcomdosharemedesktopreleasestagv28-stable---20-oct-2024&#34;&gt;&lt;a href=&#34;https://github.com/doshareme/desktop/releases/tag/v2.8-stable&#34;&gt;v2.8 (v2.8-stable)&lt;/a&gt; - 20 Oct 2024&lt;/h1&gt;&#xA;&lt;p&gt;First Open Source Release of DoShare Personal Cloud App 🎉&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Refresh Page on Delete&lt;/li&gt;&#xA;&lt;li&gt;Implementation and Testing done on MacOS, Windows and Linux&lt;/li&gt;&#xA;&lt;li&gt;Search my files&lt;/li&gt;&#xA;&lt;li&gt;Recent files&lt;/li&gt;&#xA;&lt;li&gt;List My Files&lt;/li&gt;&#xA;&lt;li&gt;File Delete (Move to Trash)&lt;/li&gt;&#xA;&lt;li&gt;SignUp and Login via Supabase&lt;/li&gt;&#xA;&lt;li&gt;Onboarding Flow Built&lt;/li&gt;&#xA;&lt;li&gt;Image Preview works&lt;/li&gt;&#xA;&lt;li&gt;Single File Upload works&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href=&#34;https://github.com/doshareme/desktop/commits/v2.8-stable&#34;&gt;https://github.com/doshareme/desktop/commits/v2.8-stable&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/doshareme/desktop/tree/v2.8-stable&#34;&gt;Changes&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/2.7/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2.7/</guid>
+      <description>&lt;h1 id=&#34;v27---02-oct-2024&#34;&gt;v2.7 - 02 Oct 2024&lt;/h1&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feat: Hover to View Images&lt;/li&gt;&#xA;&lt;li&gt;Feat: Suported Icons for Popular formats including blender&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;fixes&#34;&gt;Fixes&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fix: Download File in Recent on Home Page&lt;/li&gt;&#xA;&lt;li&gt;Fix: Logo Updated&lt;/li&gt;&#xA;&lt;li&gt;Fix: Inline Toasts working now&lt;/li&gt;&#xA;&lt;li&gt;Fix: Account Switcher Working&lt;/li&gt;&#xA;&lt;li&gt;Downloads are available in Device Download Folder&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/windows/v.2.9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/windows/v.2.9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/windows/v2.7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/windows/v2.7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/windows/v2.8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/windows/v2.8/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
+

@@ -1,0 +1,29 @@
+name = "app"
+main = "src/index.ts"
+compatibility_date = "2024-11-07"
+
+# compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNydmJwbm1yZXJzaGdnb3l0d3l0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzA5OTExNTcsImV4cCI6MjA0NjU2NzE1N30.mvzIOzd_U_kFtNteukKYZH7-1rqyqLgl4Lbq7r8fY6Y"
+SUPABASE_URL="https://crvbpnmrershggoytwyt.supabase.co"
+
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
+
+# [ai]
+# binding = "AI"
+
+# [observability]
+# enabled = true
+# head_sampling_rate = 1
